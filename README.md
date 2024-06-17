@@ -5,7 +5,7 @@ diğeri ise kaynak ülke ve uçakların mevcut konumu değerleri arasında rota 
 
 tum_dunya.csv dosyası dinamik OpenSky API'sinden 4500 veri çektik. Bunu statik dosyamızda kullandık.
 
-(Hem dinamik veri (API), hem de dinamik veri kullanarak projemizi iki farklı yöntemle yapmayı başardık.)
+(Hem dinamik veri (API), hem de statik veri kullanarak projemizi iki farklı yöntemle yapmayı başardık.)
 
 
 
