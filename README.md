@@ -11,6 +11,10 @@ This project is a web application that visualizes flight data dynamically and st
 ![Ekran Görüntüsü (2198)](https://github.com/user-attachments/assets/7ea417c3-fab2-45a8-bef6-01d723450ad8)
 
 
+![WhatsApp Image 2024-12-23 at 1 47 30 PM](https://github.com/user-attachments/assets/b8220ab5-efda-41fa-bd3f-0d92fdaee52c)
+
+
+
 ## Features
 
 - *Dynamic Data Usage:*
